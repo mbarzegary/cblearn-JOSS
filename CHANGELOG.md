@@ -1,7 +1,8 @@
 # Changelog
 
 ## Upcoming
-
+- Feature: Datapoint sampling from manifolds
+  
 # 0.2.0
 
 - Improvement: Extended documentation
